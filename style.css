@@ -1,0 +1,7 @@
+.item {
+    order: 5; /* default is 0 */
+  }
+
+  divone, divtwo, divthree{
+    border : 2px solid red;
+  }
